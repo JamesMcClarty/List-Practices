@@ -1,0 +1,11 @@
+c:\Users\James\workspace\csharp\list-practices\obj\Debug\netcoreapp3.0\list-practices.csprojAssemblyReference.cache
+c:\Users\James\workspace\csharp\list-practices\obj\Debug\netcoreapp3.0\list-practices.AssemblyInfoInputs.cache
+c:\Users\James\workspace\csharp\list-practices\obj\Debug\netcoreapp3.0\list-practices.AssemblyInfo.cs
+c:\Users\James\workspace\csharp\list-practices\bin\Debug\netcoreapp3.0\list-practices.exe
+C:\Users\James\workspace\csharp\list-practices\bin\Debug\netcoreapp3.0\list-practices.deps.json
+C:\Users\James\workspace\csharp\list-practices\bin\Debug\netcoreapp3.0\list-practices.runtimeconfig.json
+C:\Users\James\workspace\csharp\list-practices\bin\Debug\netcoreapp3.0\list-practices.runtimeconfig.dev.json
+c:\Users\James\workspace\csharp\list-practices\bin\Debug\netcoreapp3.0\list-practices.dll
+c:\Users\James\workspace\csharp\list-practices\bin\Debug\netcoreapp3.0\list-practices.pdb
+c:\Users\James\workspace\csharp\list-practices\obj\Debug\netcoreapp3.0\list-practices.dll
+c:\Users\James\workspace\csharp\list-practices\obj\Debug\netcoreapp3.0\list-practices.pdb
